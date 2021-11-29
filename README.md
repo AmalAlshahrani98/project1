@@ -14,7 +14,7 @@ https://www.figma.com/file/EijD6OOHpwJd3i9X3bGNM1/NEARMe-App?node-id=0%3A1
 
 
 
-user stories:
+   # user stories:
 *  As a user I want to add task in organized way
 *  As a user I want to be able to do check my task if it is done
 *  As a user I want to add "######## and task ########
