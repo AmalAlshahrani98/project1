@@ -1,5 +1,5 @@
 # project1
-![image](https://user-images.githubusercontent.com/91452454/143868892-72dfa1a3-13fd-4193-9873-7105d8e34abd.png)
+![image](https://user-images.githubusercontent.com/91452454/143868953-549a9960-66ae-44a3-9461-e9b9dedc83d7.png)
 
 
 * used Kotlin for my Android app.
