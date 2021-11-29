@@ -1,8 +1,6 @@
 # project1
 
-https://user-images.githubusercontent.com/91456619/140023025-d22c50c0-322a-4cc0-9912-3ee42f16054e.png
-
-
+https://www.google.com/imgres?imgurl=https%3A%2F%2Ftuwaiq.edu.sa%2Fassets%2Fimages%2Ftuwaiq-logo.svg&imgrefurl=https%3A%2F%2Ftuwaiq.edu.sa%2F&tbnid=I9mEqG2JzNkHIM&vet=12ahUKEwiP-vrnyb30AhVJrhoKHY-JCoQQMygAegQIARBg..i&docid=vtK1NzeefjJDSM&w=894&h=220&q=tuwaiq%20academy&hl=ar&ved=2ahUKEwiP-vrnyb30AhVJrhoKHY-JCoQQMygAegQIARBg
 
 
 * used Kotlin for my Android app.
