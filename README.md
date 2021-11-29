@@ -1,7 +1,7 @@
 # project1
 ![image](https://user-images.githubusercontent.com/91452454/143868953-549a9960-66ae-44a3-9461-e9b9dedc83d7.png)
 
- ** list of technologies:
+ **list of technologies:
 
 * used Kotlin for my Android app.
 * used Android Studio to creat the app.
